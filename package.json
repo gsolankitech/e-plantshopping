@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gsolanki28.github.io/e-plantshopping",
+  "homepage": "https://gsolankitech.github.io/e-plantshopping",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
